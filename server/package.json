@@ -1,0 +1,16 @@
+{
+  "name": "random-phone-number-generator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:ludralph/random-phone-number-generator.git",
+  "author": "ludralph <raphaelumoh@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "logger": "^0.0.1"
+  }
+}
